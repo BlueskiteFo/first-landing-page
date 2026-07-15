@@ -1,3 +1,3 @@
 # Proyecto Landing Page
 
-Primero utilizare este repo para ver cómo trabajar con CSS y luego lo utilizaré para subir el proyecto Landing Page que me piden en The Odin Projects
+Esta será mi primera página web totalmente desde 0, utilizando HTML y CSS para entender los conceptos fundamentales, con ayuda de documentación y evitando el uso de la IA (para entender bien las bases y despues poder aprovecharla de la mejor manera, entendiendo lo que está haciendo)
