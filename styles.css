@@ -83,7 +83,7 @@ a {
     border-radius: 10px;
 }
 
-.eassy-logo-marca {
+.logo-marca {
     width: 500px;
     height: auto;
     flex-shrink: 0;
@@ -107,7 +107,9 @@ a {
 
 .squares {
     display: flex;
-    justify-content: space-evenly;
+    /*justify-content: space-evenly;*/
+    justify-content: center;
+    gap: 100px
 }
 
 .square {
